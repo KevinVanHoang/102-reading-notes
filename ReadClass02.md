@@ -15,6 +15,15 @@ This topic matters how building a pc can save you money and change the experienc
 - You need all the neccesary parts of a computer depending on your budget and plan to use for.
 - You need a CPU which is acts as a brain for your computer.
 - A Motherboard which interacts between all of your components.
-- 
+- Ram is the workspace or table to work in.
+- Storage Drive is for storing data.
+- Power Supply provides power for components.
+- Case is important for storing and cooling your components and provides protection.
+- Cooling system includes fans or coolers to prevent overheating of components.
+  
 
 ## Things I want to know more about
+
+
+Resources:-[WikiHow - How to Build a PC](https://www.youtube.com/watch?v=MtALhv22Ltk)
+          - [Video - YouTube Robeytech - How to Build a PC](https://www.youtube.com/watch?v=MtALhv22Ltk)
