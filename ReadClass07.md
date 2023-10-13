@@ -1,3 +1,4 @@
+This topic is important how learning different ways of network connectivity helps me decide which method to connect my network in a secure way. How to safely transfer information or files from RDP between my client and server through the network.
 
 # ***SSH Protocol***
 
@@ -25,7 +26,9 @@
 
 ## What is Windows Remote Desktop Connection?
 - Windows Remote Desktop Connection tool gives us the ability to connect to a remote Windows PC or Server over the local network or on the Internet.
+  
 ## What is RDP?
-- RDP stands for (Remote Desktop Protocol) and it allows remote users to see and use Windows on a device in another location. 
+- RDP stands for (Remote Desktop Protocol) and it allows remote users to see and use Windows on a device in another location.
+  
 ## What is the RDP port number?
 - RDP which is Remote Desktop Protocol operates over TCP port 3389.
